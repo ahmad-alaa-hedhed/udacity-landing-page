@@ -182,6 +182,12 @@ section {
         font-size: 30px;
         color: #000;
     }
+    .scroll-to-top{
+        display: block;
+        ruby-span: block;
+    }
+
+
 
     .nav-container {
         position: absolute;
